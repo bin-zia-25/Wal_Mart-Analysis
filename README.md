@@ -22,7 +22,7 @@ The Random Forest model achieved high precision after handling outliers:
 * `data/`: Raw and cleaned datasets.
 
 ## How to Use
-1. Clone the repo: `git clone https://github.com/YourUsername/walmart-sales-analysis.git`
+1. Clone the repo: `git clone https://github.com/bin-zia-25/Wal_Mart-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook to see the data pipeline.
 4. Open the Power BI file in the `reports/` folder to explore the dashboard.
